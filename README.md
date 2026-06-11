@@ -8,7 +8,6 @@ UnifiedHOInteraction provides the following folders and models:
 
 - `Device`: Device-side Unity project for Hololens 2
 - `Server`: Server-side Python project
-- `CustomDatasetToolkit`: Custom hand gesture dataset generation toolkit
 
 
 ## Installation
@@ -66,9 +65,6 @@ UnifiedHOInteraction provides the following folders and models:
     python main_on_hl2.py
     ```
 
-
-## Create custom dataset and Train
-- TBD (~2026.01)
 
 
 ## Acknowledgement
